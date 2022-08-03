@@ -1,1 +1,1 @@
-# go1
+# Repo for course GB go1
